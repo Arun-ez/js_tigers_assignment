@@ -59,9 +59,6 @@ const Login = () => {
                         <img src={'/google.svg'} alt="google" />
                         <p> Signin </p>
                     </button>
-
-
-
                 </form>
             </div>
         </div>
